@@ -20,6 +20,11 @@ export default defineComponent({
   setup() {
     const tableData2 = ref([
       {name: 'kelly clarkson', url: 'https://kellyclarkson01.pages.dev/', verticals: 'US Diet', dec: ''},
+      {name: '5pill-ed1', url: 'https://5pill-ed1.pages.dev/', verticals: 'US Ed', dec: 'ed1'},
+      {name: '0prah-03', url: 'https://0prah-03.pages.dev/', verticals: 'US Diet', dec: 'Diet02'},
+      {name: 'enlarge-ed02', url: 'https://enlarge-ed02.pages.dev/', verticals: 'US Ed', dec: 'ed02'},
+      {name: 'ed03', url: 'https://ed03.pages.dev/', verticals: 'US Ed', dec: 'ed03'},
+      {name: 'ed04', url: 'https://ed04.pages.dev/', verticals: 'US Ed', dec: 'ed04'},
     ])
     return {
       tableData2
