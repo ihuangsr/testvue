@@ -1,5 +1,4 @@
 <template>
-  <div>jidjfidji</div>
   <HelloWorld />
 </template>
 
