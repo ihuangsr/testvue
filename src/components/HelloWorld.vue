@@ -33,6 +33,10 @@ export default defineComponent({
       {name: 'dite-us-kelly-clarkson-02-012', url: 'https://dite-us-kelly-clarkson-02-012.pages.dev/', verticals: 'US Diet', dec: '' },
       {name: 'dite-us-0prah-02-013', url: 'https://dite-us-0prah-02-013.pages.dev/', verticals: 'US Diet', dec: '' },
       {name: 'dite-us-miranda-lambert-014', url: 'https://dite-us-miranda-lambert-14.pages.dev/', verticals: 'US Diet', dec: '' },
+      {name: 'dite-us-shank-tank-015', url: 'https://dite-us-emily-senstrom-015.pages.dev/', verticals: 'US Diet', dec: '' },
+      {name: 'dite-us-shank-tank-02-016', url: 'https://dite-us-shank-tank-02-016.pages.dev/', verticals: 'US Diet', dec: '' },
+      {name: 'dite-us-trisha-earwood-017', url: 'https://dite-us-trisha-earwood-017.pages.dev/', verticals: 'US Diet', dec: '' },
+      {name: 'dite-us-kelly-clarkson-03-018', url: 'https://dite-us-kelly-clarkson-03-018.pages.dev/', verticals: 'US Diet', dec: '' },
     ])
     return {
       tableData2
