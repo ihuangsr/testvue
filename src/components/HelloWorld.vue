@@ -37,8 +37,8 @@ export default defineComponent({
       {name: 'dite-us-shank-tank-02-016', url: 'https://dite-us-shank-tank-02-016.pages.dev/', verticals: 'US Diet', dec: '' },
       {name: 'dite-us-trisha-earwood-017', url: 'https://dite-us-trisha-earwood-017.pages.dev/', verticals: 'US Diet', dec: '' },
       {name: 'dite-us-kelly-clarkson-03-018', url: 'https://dite-us-kelly-clarkson-03-018.pages.dev/', verticals: 'US Diet', dec: '' },
-	  {name: ' dite-us-ina-garten-019', url: 'https://dite-us-ina-garten-019.pages.dev/', verticals: 'US Diet', dec: '' },
-	  {name: ' dite-us-raba-mcentire-020', url: 'https://dite-us-raba-mcentire-020.pages.dev', verticals: 'US Diet', dec: '' },
+	    {name: 'dite-us-ina-garten-019', url: 'https://dite-us-ina-garten-019.pages.dev/', verticals: 'US Diet', dec: '' },
+	    {name: 'dite-us-raba-mcentire-020', url: 'https://dite-us-raba-mcentire-020.pages.dev', verticals: 'US Diet', dec: '' },
     ])
     return {
       tableData2
