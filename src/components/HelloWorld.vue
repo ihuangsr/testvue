@@ -93,6 +93,12 @@ export default defineComponent({
         verticals: 'US Diet',
         dec: ''
       },
+      {
+        name: 'diet-de-meine-geschichte-021',
+        url: 'https://diet-de-meine-geschichte-021.pages.dev/',
+        verticals: 'DE Diet',
+        dec: ''
+      },
     ])
     return {
       tableData2
