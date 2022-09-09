@@ -99,6 +99,24 @@ export default defineComponent({
         verticals: 'DE Diet',
         dec: ''
       },
+      {
+        name: 'diet-de-gesundhdeitsportal-022',
+        url: 'https://diet-de-gesundhdeitsportal-022.pages.dev/',
+        verticals: 'DE Diet',
+        dec: ''
+      },
+      {
+        name: 'diet-fr-karine-le-marchand-023',
+        url: 'https://diet-fr-karine-le-marchand-023.pages.dev/',
+        verticals: 'FR Diet',
+        dec: ''
+      },
+      {
+        name: 'diet-de-biggest-loser-024',
+        url: 'https://diet-de-biggest-loser-024.pages.dev/',
+        verticals: 'DE Diet',
+        dec: ''
+      },
     ])
     return {
       tableData2
