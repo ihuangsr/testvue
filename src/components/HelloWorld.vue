@@ -117,6 +117,12 @@ export default defineComponent({
         verticals: 'DE Diet',
         dec: ''
       },
+      {
+        name: 'diet-au-sam-025',
+        url: 'https://diet-au-sam-025.pages.dev/',
+        verticals: 'DE Diet',
+        dec: ''
+      },
     ])
     return {
       tableData2
