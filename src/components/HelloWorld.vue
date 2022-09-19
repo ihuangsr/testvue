@@ -133,15 +133,31 @@ export default defineComponent({
         url: 'https://skin-us-027.pages.dev/',
         verticals: 'US Skin',
         dec: ''
-      },{
-        name: 'ed-us-027',
+      },
+      {
+        name: 'ed-us-028',
         url: 'https://ed-us-028.pages.dev/',
         verticals: 'US ED',
         dec: ''
       },{
-        name: 'ed-us-028',
-        url: 'https://ed-us-028.pages.dev/',
+        name: 'ed-us-029',
+        url: 'https://ed-us-029.pages.dev/',
         verticals: 'US ED',
+        dec: ''
+      },{
+        name: 'ed-us-028-1',
+        url: 'https://ed-us-028-1.pages.dev/',
+        verticals: 'US ED',
+        dec: ''
+      },{
+        name: 'cbd-us-kelly-030',
+        url: 'https://cbd-us-kelly-030.pages.dev/',
+        verticals: 'US CBD',
+        dec: ''
+      },{
+        name: 'diet-fr-lanrent-031',
+        url: 'https://diet-fr-lanrent-031.pages.dev/',
+        verticals: 'FR Diet',
         dec: ''
       },
     ])
