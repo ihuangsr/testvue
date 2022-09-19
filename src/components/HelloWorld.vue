@@ -123,6 +123,27 @@ export default defineComponent({
         verticals: 'DE Diet',
         dec: ''
       },
+      {
+        name: 'skin-us-026',
+        url: 'https://skin-us-026.pages.dev/',
+        verticals: 'US Skin',
+        dec: ''
+      },{
+        name: 'skin-us-027',
+        url: 'https://skin-us-027.pages.dev/',
+        verticals: 'US Skin',
+        dec: ''
+      },{
+        name: 'ed-us-027',
+        url: 'https://ed-us-028.pages.dev/',
+        verticals: 'US ED',
+        dec: ''
+      },{
+        name: 'ed-us-028',
+        url: 'https://ed-us-028.pages.dev/',
+        verticals: 'US ED',
+        dec: ''
+      },
     ])
     return {
       tableData2
