@@ -169,6 +169,26 @@ export default defineComponent({
         url: 'https://cbd-uk-bery-033.pages.dev/',
         verticals: 'UK CBD',
         dec: ''
+      },{
+        name: 'cbd-uk-ciff-034',
+        url: 'https://cbd-uk-ciff-034.pages.dev/',
+        verticals: 'UK CBD',
+        dec: ''
+      },{
+        name: 'diet-us-shank-035',
+        url: 'https://diet-us-shank-035.pages.dev/',
+        verticals: 'US Diet',
+        dec: ''
+      },{
+        name: 'diet-us-sandra-036',
+        url: 'https://diet-us-sandra-036.pages.dev/',
+        verticals: 'US Diet',
+        dec: ''
+      },{
+        name: 'diet-us-adamari-037',
+        url: 'https://diet-us-adamari-037.pages.dev/',
+        verticals: 'US Diet',
+        dec: ''
       },
     ])
     return {
