@@ -159,6 +159,16 @@ export default defineComponent({
         url: 'https://diet-fr-lanrent-031.pages.dev/',
         verticals: 'FR Diet',
         dec: ''
+      },{
+        name: 'diet-uk-holly-032',
+        url: 'https://diet-uk-holly-032.pages.dev/',
+        verticals: 'UK Diet',
+        dec: ''
+      },{
+        name: 'cbd-uk-holly-033',
+        url: 'https://cbd-uk-bery-033.pages.dev/',
+        verticals: 'UK CBD',
+        dec: ''
       },
     ])
     return {
