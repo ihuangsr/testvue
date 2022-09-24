@@ -195,6 +195,21 @@ export default defineComponent({
         verticals: 'US CBD',
         dec: ''
       },{
+        name: 'cbd-us-reabmcentire-039',
+        url: 'https://cbd-us-reabmcentire-039.pages.dev/',
+        verticals: 'US CBD',
+        dec: ''
+      },{
+        name: 'cbd-us-retavansusteren-040',
+        url: 'https://cbd-us-retavansusteren-040.pages.dev/',
+        verticals: 'US CBD',
+        dec: ''
+      },{
+        name: 'diet-us-shankthank-041',
+        url: 'https://diet-us-shankthank-041.pages.dev/',
+        verticals: 'US Diet',
+        dec: ''
+      },{
         name: 'diet-us-reba-042',
         url: 'https://diet-us-reba-042.pages.dev/',
         verticals: 'US Diet',
