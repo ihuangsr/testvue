@@ -216,13 +216,23 @@ export default defineComponent({
         dec: ''
       },{
         name: 'cbd-ca-kevinoleary-043',
-        url: 'https://diet-us-reba-042.pages.dev/',
+        url: 'https://cbd-ca-kevinoleary-043.pages.dev/',
         verticals: 'CA CBD',
         dec: ''
       },{
         name: 'cbd-ca-lisalaflamme-044',
         url: 'https://cbd-ca-lisalaflamme-044.pages.dev/',
         verticals: 'CA CBD',
+        dec: ''
+      },{
+        name: 'diet-us-inagarten-045',
+        url: 'https://diet-us-inagarten-045.pages.dev/',
+        verticals: 'US Diet',
+        dec: ''
+      },{
+        name: 'diet-us-fenniferlawrence-046',
+        url: 'https://diet-us-fenniferlawrence-046.pages.dev/',
+        verticals: 'US Diet',
         dec: ''
       },
     ])
