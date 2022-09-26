@@ -234,6 +234,21 @@ export default defineComponent({
         url: 'https://diet-us-fenniferlawrence-046.pages.dev/',
         verticals: 'US Diet',
         dec: ''
+      },{
+        name: 'diet-uk-deborahmeaden-047',
+        url: 'https://diet-us-deborahmeaden-047.pages.dev/',
+        verticals: 'UK Diet',
+        dec: ''
+      },{
+        name: 'diet-us-kelly-048',
+        url: 'https://diet-us-kelly-048.pages.dev/',
+        verticals: 'UK Diet',
+        dec: ''
+      },{
+        name: 'cbd-us-seanhannity-049',
+        url: 'https://cbd-us-seanhannity-049.pages.dev/',
+        verticals: 'UK Diet',
+        dec: ''
       },
     ])
     return {
