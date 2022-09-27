@@ -249,6 +249,16 @@ export default defineComponent({
         url: 'https://cbd-us-seanhannity-049.pages.dev/',
         verticals: 'UK Diet',
         dec: ''
+      },{
+        name: 'diet-de-stefaniegiesinger-050',
+        url: 'https://diet-de-stefaniegiesinger-050.pages.dev/',
+        verticals: 'UK Diet',
+        dec: ''
+      },{
+        name: 'diet-usmirandalambert-051',
+        url: 'https://diet-usmirandalambert-051.pages.dev/',
+        verticals: 'US Diet',
+        dec: ''
       },
     ])
     return {
