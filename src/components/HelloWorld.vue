@@ -252,11 +252,16 @@ export default defineComponent({
       },{
         name: 'diet-de-stefaniegiesinger-050',
         url: 'https://diet-de-stefaniegiesinger-050.pages.dev/',
-        verticals: 'UK Diet',
+        verticals: 'DE Diet',
         dec: ''
       },{
         name: 'diet-usmirandalambert-051',
         url: 'https://diet-usmirandalambert-051.pages.dev/',
+        verticals: 'US Diet',
+        dec: ''
+      },{
+        name: 'diet-us-usmirandalambert-052',
+        url: 'https://diet-us-usmirandalambert-052.pages.dev/',
         verticals: 'US Diet',
         dec: ''
       },
