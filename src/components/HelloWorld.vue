@@ -264,6 +264,16 @@ export default defineComponent({
         url: 'https://diet-us-usmirandalambert-052.pages.dev/',
         verticals: 'US Diet',
         dec: ''
+      },{
+        name: 'diet-us-usmirandalambert-052',
+        url: 'https://diet-uk-dawnfrench-053.pages.dev/',
+        verticals: 'UK Diet Diet',
+        dec: ''
+      },{
+        name: 'cbd-ca-waynegretzky0-54',
+        url: 'https://cbd-ca-waynegretzky0-54.pages.dev/',
+        verticals: 'CA CBD',
+        dec: ''
       },
     ])
     return {
