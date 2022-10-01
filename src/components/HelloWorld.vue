@@ -267,7 +267,7 @@ export default defineComponent({
       },{
         name: 'diet-uk-dawnfrench-053',
         url: 'https://diet-uk-dawnfrench-053.pages.dev/',
-        verticals: 'UK Diet',
+        verticals: 'UK  Diet',
         dec: ''
       },{
         name: 'cbd-ca-waynegretzky0-54',
