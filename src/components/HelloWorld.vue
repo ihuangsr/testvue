@@ -265,7 +265,7 @@ export default defineComponent({
         verticals: 'US Diet',
         dec: ''
       },{
-        name: 'diet-us-usmirandalambert-052',
+        name: 'diet-uk-dawnfrench-053',
         url: 'https://diet-uk-dawnfrench-053.pages.dev/',
         verticals: 'UK Diet Diet',
         dec: ''
