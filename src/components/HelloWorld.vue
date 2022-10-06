@@ -274,6 +274,21 @@ export default defineComponent({
         url: 'https://cbd-ca-waynegretzky0-54.pages.dev/',
         verticals: 'CA CBD',
         dec: ''
+      },{
+        name: 'diet-uk-lisa-riley-055',
+        url: 'https://diet-uk-lisa-riley-055.pages.dev/',
+        verticals: 'UK Diet',
+        dec: ''
+      },{
+        name: 'ed-us-056',
+        url: 'https://ed-us-056.pages.dev/',
+        verticals: 'US ED',
+        dec: ''
+      },{
+        name: 'ed-us-057',
+        url: 'https://ed-us-057.pages.dev/',
+        verticals: 'US ED',
+        dec: ''
       },
     ])
     return {
