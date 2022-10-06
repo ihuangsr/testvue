@@ -289,6 +289,26 @@ export default defineComponent({
         url: 'https://ed-us-057.pages.dev/',
         verticals: 'US ED',
         dec: ''
+      },{
+        name: 'ed-au-058',
+        url: 'https://ed-au-058.pages.dev/',
+        verticals: 'AU ED',
+        dec: ''
+      },{
+        name: 'diet-au-chrissie-swan-059',
+        url: 'https://diet-au-chrissie-swan-059.pages.dev/',
+        verticals: 'AU DIET',
+        dec: ''
+      },{
+        name: 'diet-au-jackmanreveals-060',
+        url: 'https://diet-au-jackmanreveals-060.pages.dev/',
+        verticals: 'AU DIET',
+        dec: ''
+      },{
+        name: 'diet-au-maggiebeer-061',
+        url: 'https://diet-au-maggiebeer-061.pages.dev/',
+        verticals: 'AU DIET',
+        dec: ''
       },
     ])
     return {
