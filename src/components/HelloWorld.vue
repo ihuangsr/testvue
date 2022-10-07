@@ -309,6 +309,11 @@ export default defineComponent({
         url: 'https://diet-au-maggiebeer-061.pages.dev/',
         verticals: 'AU DIET',
         dec: ''
+      },{
+        name: 'diet-au-sam-062',
+        url: 'https://diet-au-sam-062.pages.dev/',
+        verticals: 'AU DIET',
+        dec: ''
       },
     ])
     return {
