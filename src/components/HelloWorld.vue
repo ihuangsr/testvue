@@ -314,6 +314,16 @@ export default defineComponent({
         url: 'https://diet-au-sam-062.pages.dev/',
         verticals: 'AU DIET',
         dec: ''
+      },{
+        name: 'diet-au-chrishemsworth-063',
+        url: 'https://diet-au-chrishemsworth-063.pages.dev/',
+        verticals: 'AU DIET',
+        dec: ''
+      },{
+        name: 'ed-us-064',
+        url: 'https://ed-us-064.pages.dev/',
+        verticals: 'US ED',
+        dec: ''
       },
     ])
     return {
