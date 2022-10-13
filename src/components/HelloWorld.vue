@@ -329,6 +329,11 @@ export default defineComponent({
         url: 'https://diet-au-chrissie-swan-065.pages.dev/',
         verticals: 'AU DIET',
         dec: ''
+      },{
+        name: 'ed-us-064',
+        url: 'https://ed-us-066.pages.dev/',
+        verticals: 'US ED',
+        dec: ''
       },
     ])
     return {
