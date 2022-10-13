@@ -330,7 +330,7 @@ export default defineComponent({
         verticals: 'AU DIET',
         dec: ''
       },{
-        name: 'ed-us-064',
+        name: 'ed-us-066',
         url: 'https://ed-us-066.pages.dev/',
         verticals: 'US ED',
         dec: ''
