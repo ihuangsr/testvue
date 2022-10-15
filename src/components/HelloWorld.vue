@@ -334,6 +334,11 @@ export default defineComponent({
         url: 'https://ed-us-066.pages.dev/',
         verticals: 'US ED',
         dec: ''
+      },{
+        name: 'diet-ca-marilyndenis-067',
+        url: 'https://diet-ca-marilyndenis-067.pages.dev/',
+        verticals: 'CA Diet',
+        dec: ''
       },
     ])
     return {
