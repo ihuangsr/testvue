@@ -339,6 +339,16 @@ export default defineComponent({
         url: 'https://diet-ca-marilyndenis-067.pages.dev/',
         verticals: 'CA Diet',
         dec: ''
+      },{
+        name: 'ed-usau-068',
+        url: 'https://ed-usau-068.pages.dev/',
+        verticals: 'USAU ED',
+        dec: ''
+      },{
+        name: 'cbd-ca-doncherry-069',
+        url: 'https://cbd-ca-doncherry-069.pages.dev/',
+        verticals: 'CA CBD',
+        dec: ''
       },
     ])
     return {
