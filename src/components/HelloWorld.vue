@@ -349,6 +349,16 @@ export default defineComponent({
         url: 'https://cbd-ca-doncherry-069.pages.dev/',
         verticals: 'CA CBD',
         dec: ''
+      },{
+        name: 'diet-us-ree-drummond-070',
+        url: 'https://diet-us-ree-drummond-070.pages.dev/',
+        verticals: 'US Diet',
+        dec: ''
+      },{
+        name: 'ed-ca-072',
+        url: 'https://ed-ca-072.pages.dev/',
+        verticals: 'CA ED',
+        dec: ''
       },
     ])
     return {
